@@ -1,8 +1,9 @@
 # Site-loja-de-tenis
 
-https://app.brmodeloweb.com/#!/publicview/66ce2d0a4bcd3326de0ea4c0
+https://app.brmodeloweb.com/#!/publicview/66dc9ab90483211f074fc96d
 
-![image](https://github.com/user-attachments/assets/56acafad-43f3-435c-9fcd-986af783b980)
+![image](https://github.com/user-attachments/assets/3cc280d0-22c5-48a5-a06c-fc3384ae12e6)
+
 
 ![image](https://github.com/user-attachments/assets/2a1600f5-899d-4261-a642-79476a27f34a)
 
