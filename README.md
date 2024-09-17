@@ -94,6 +94,14 @@ Route::get('/admin/users/{id}/edit', [AdminUserController::class, 'edit']);  Exi
 Route::put('/admin/users/{id}', [AdminUserController::class, 'update']);  Atualiza informações de um usuário
 Route::delete('/admin/users/{id}', [AdminUserController::class, 'destroy']);  Remove usuário
 
+// Middlewares
+
+Route::middleware('auth')->group(function() {
+});
+
+Route::middleware('admin')->group(function() {
+});
+
 
 
 
